@@ -1,0 +1,11 @@
+{
+  "name": "liff-gwvwba",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "tslib": "2.3.1",
+    "@line/liff": "2.18.1",
+    "@liff/close-window": "2.20.1",
+    "@liff/is-api-available": "2.19.1"
+  }
+}
